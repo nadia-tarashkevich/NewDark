@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="support@jetbrains.com" url="https://www.jetbrains.com">JetBrains</vendor>
 
     <idea-version since-build="231" until-build="251.*"/>
 
@@ -21,7 +21,7 @@
 New Dark is intermediate color scheme, introduced in 2022.1 and removed in 2023.1
 This plugin brings back this theme and can be used with versions 2023.1 - 2025.1.
 
-<img src="https://youtrack.jetbrains.com/api/files/74-1601297" alt="New Dark"/>
+<br>
 
 Notable differences with "Dark" color scheme: blue color for keywords
   ]]></description>
