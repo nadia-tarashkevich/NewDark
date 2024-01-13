@@ -6,7 +6,7 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>NewDark</name>
+    <name>New Dark</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -37,6 +37,6 @@ Notable differences with "Dark" color scheme: blue color for keywords
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider/>
+        <themeProvider id="NewDark" path="/theme/NewDark.theme.json" />
     </extensions>
 </idea-plugin>
