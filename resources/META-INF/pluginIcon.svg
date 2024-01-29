@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-    <g fill="none" fill-rule="evenodd">
-        <polygon fill="#110F0B" fill-rule="nonzero" points="7 21 7 59 40 78 73 59 73 21 40 2"/>
-        <polygon fill="#030303" fill-rule="nonzero" points="7 21 40 40 40 2"/>
-        <polygon fill="#272319" fill-rule="nonzero" points="40 40 7 21 7 59"/>
-        <polygon fill="#201C14" fill-rule="nonzero" points="40 40 7 59 40 78"/>
-        <polygon fill="#19160F" fill-rule="nonzero" points="40 40 40 78 73 59"/>
-        <polygon fill="#0F0D0A" fill-rule="nonzero" points="73 21 40 40 73 59"/>
-        <polygon fill="#0A0A0A" fill-rule="nonzero" points="40 2 40 40 73 21"/>
-    </g>
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 21V59L40 78L73 59V21L40 2L7 21Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 21L40 2V40L7 59V21Z" fill="#6EDDE6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7 59L40 40L73 59L40 78L7 59Z" fill="#6898F7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40 40V2L73 21V59L40 40Z" fill="#F5C97A"/>
 </svg>
