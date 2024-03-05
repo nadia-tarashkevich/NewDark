@@ -1,6 +1,7 @@
 {
   "name": "New Dark Color Scheme",
   "author": "JetBrains",
-  "editorScheme": "/NewDark.xml",
+  "editorScheme": "/colors/NewDark.xml",
+  "parentTheme": "ExperimentalDark",
   "dark": true
 }
