@@ -35,7 +35,7 @@ After the installation, go to "Settings | Editor | Color Scheme" and select "New
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <bundledColorScheme path="/colors/NewDark.xml"/>
+        <bundledColorScheme path="/colors/NewDark.xml" id="NewDark"/>
         <themeProvider id="NewDark" path="/theme/NewDark.theme.json"/>
     </extensions>
 </idea-plugin>
